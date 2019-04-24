@@ -1,0 +1,6 @@
+framework module Pods_DelegateProxy_Tests {
+  umbrella header "Pods-DelegateProxy_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

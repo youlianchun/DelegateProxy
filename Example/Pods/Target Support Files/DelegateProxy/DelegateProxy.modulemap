@@ -1,0 +1,6 @@
+framework module DelegateProxy {
+  umbrella header "DelegateProxy-umbrella.h"
+
+  export *
+  module * { export * }
+}
